@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 16a007015db24526675ba73ec9ce2b9692a4e3c8
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -105,3 +108,4 @@ venv.bak/
 .mypy_cache/
 
 .pdf
+
